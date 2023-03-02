@@ -13,5 +13,4 @@ As part of the requirement for this assignment, the project uses React with rout
 
 ## Left to implement:
 
-- Margin and spacing on the design page. 
-- Page responsiveness when content is shrunk (DesignList and Footer component)
+- Generate an appointment
