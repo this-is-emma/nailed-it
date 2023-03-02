@@ -1,0 +1,45 @@
+/* video {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    position:fixed;
+    z-index:-1;
+} */
+
+
+.background-countainer {
+    background-image: url('../../public/images/bg.jpg');
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    background-size: cover;
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items:center;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.2);
+    object-fit: contain;
+}
+
+.background-countainer > h1 {
+    color: #fff;
+    font-size: 130px;
+    margin-bottom: 0px;
+    font-weight: lighter;
+}
+
+.background-countainer > h2 {
+    color: #790034;
+    font-size: 50px;
+    font-family: "Comfortaa";
+    font-weight: lighter;
+}
+
+.background-countainer > p {
+    color: #fff;
+    font-size: 32px;
+    margin-top: 8px;
+    font-family: "Comfortaa";
+}
+

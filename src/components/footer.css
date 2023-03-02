@@ -1,0 +1,129 @@
+.footer-container {
+    background-color: #790034;
+    text-align: center;
+    align-items:center;
+    padding: 4rem 0 2rem 0;
+    font-family: "Comfortaa";
+    color: white;
+    clear: both;
+    position: relative;
+    height: 200px;
+    padding-bottom: -5px;   
+    line-height: 1.5;
+}
+
+.unsplash-link{
+    color: #ff008c;
+    align-items: center;
+    text-decoration: none;
+    padding: 0.2rem;
+    height: 100%;
+    font-weight: bolder;
+    transition: all 1s ease-out;
+  }
+
+.unsplash-link:hover {
+    color:white;
+    transition: all 1s ease;
+}
+
+
+.footer-subscription{
+    padding: 0 50px 0 50px;
+}
+
+.rabais{
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px 7px 5px 7px;
+    background-color: white;
+    color:#790034;
+    margin:0 2px 0 2px;
+}
+
+.footer-input{
+    font-family: "Comfortaa";
+    height: 25px;
+    width: 300px;
+}
+
+.footer-submit {
+    font-family: "Comfortaa";
+    text-decoration: none;
+    margin-left: 20px;
+    padding: 4px 7px 4px 7px;
+    color:#790034;
+    font-size: 15px;
+    background-color: #ffffff;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.footer-submit:hover {
+    font-weight: bold;
+}
+
+
+@media screen and (max-width: 960px) {
+
+    .footer-container {
+        background-color: #790034;
+        text-align: center;
+        align-items:center;
+        font-family: "Comfortaa";
+        color: white;
+        display: flex;
+        flex-direction: column;  
+    }
+
+    .unsplash-link{
+        color: #ff008c;
+        align-items: center;
+        text-decoration: none;
+        padding: 0.2rem;
+        height: 100%;
+        font-weight: bolder;
+        transition: all 1s ease-out;
+      }
+    
+    .unsplash-link:hover {
+        color:white;
+        transition: all 1s ease;
+    }
+    
+    
+    .footer-subscription{
+        padding: 0 50px 0 50px;
+    }
+    
+    .rabais{
+        border: 1px solid white;
+        border-radius: 10px;
+        padding: 5px 7px 5px 7px;
+        background-color: white;
+        color:#790034;
+        margin:0 2px 0 2px;
+    }
+    
+    .footer-input{
+        font-family: "Comfortaa";
+        height: 25px;
+        width: 300px;
+    }
+    
+    .footer-submit {
+        font-family: "Comfortaa";
+        text-decoration: none;
+        margin-left: 20px;
+        padding: 4px 7px 4px 7px;
+        color:#790034;
+        font-size: 15px;
+        background-color: #ffffff;
+        border: 1px solid white;
+        border-radius: 10px;
+    }
+    
+    .footer-submit:hover {
+        font-weight: bold;
+    }
+}

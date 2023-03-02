@@ -1,0 +1,38 @@
+[
+    {
+       "title":"Rose Chrome",
+       "desc":"C'est fort comme du chrome mais doux comme du rose",
+       "image": "pink-chrome.jpg"
+    },
+    {
+       "title":"French Pedicure",
+       "desc":"On aime cet air propre et apprete!",
+       "image": "french-pedicure.jpg"
+       
+    },
+    {
+       "title":"Un air metallique",
+       "desc":"Forte et rebelle",
+       "image": "green-chrome.jpg"
+    },
+    {
+       "title":"Beige Neige",
+       "desc":"Par ici la sophistication",
+       "image": "neutral2.jpg"
+    },
+    {
+       "title":"Orange Vibrante",
+       "desc":"Energetique et Acidulee",
+       "image": "orange.jpg"
+    },
+    {
+       "title":"Ombre Rose",
+       "desc":"Ombre oui, ombre toujours",
+       "image": "pink-ombre.jpg"
+    },
+    {
+       "title":"ruby rouge",
+       "desc":"Du rouge comme on l'aime",
+       "image": "ruby.jpg"
+    }
+]

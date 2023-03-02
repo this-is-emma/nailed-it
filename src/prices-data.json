@@ -1,0 +1,36 @@
+[
+    {
+      "name":"Manucure & Pedicure",
+      "desc":"Bain doux et nettoyant pour vos mains et pieds, massage et elimination des peaux mortes pour une peau eclatante et douce",
+      "price": 10.00,
+      "time": "30 mins"
+    },
+    {
+      "name":"Vernis Shellac & Manucure/Pedicure",
+      "desc":"Tous les bienfaits d'une seance de manucure et pedicure, avec vernissage des ongles au Shellac",
+      "price": 12.00,
+      "time": "45mins"
+        
+    },
+    {
+      "name":"Poses ongles au Gel",
+      "desc":"Pose de faux ongles avec couverture au gel par une de nos prothesistes ongulaire",
+      "price": 15.00,
+      "time": "1h"
+        
+    },
+    {
+      "name":"Pose ongles a la poudre acrylique",
+      "desc":"Pose de faux ongles avec couverture a la poudre acrylique par une de nos prothesistes ongulaire",
+      "price": 14.00,
+      "time": "40 mins"
+        
+    },
+    {
+      "name":"Fantaisies",
+      "desc":"A la cartes: Apportes une photo de ce que vous souhaitez, nous nous efforcerons de le reproduire.",
+      "price": 20.00,
+      "time": "1h 30mins"
+    }
+    
+]

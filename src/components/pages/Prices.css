@@ -1,0 +1,44 @@
+
+.single-item-price{
+    border: 1px solid rgba(0, 0, 0, 0.233);
+    border-radius: 8px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+    padding: 0.5rem 1.8rem;
+    margin: 50px 40px;
+    padding-bottom: 30px;
+    font-family: "Comfortaa";
+    background-image: url('../../../public/images/flower.png');
+    background-size: 35%;
+    background-position: 110% 8%;
+    background-repeat: no-repeat;
+}
+
+.price-name{
+    color: #790034;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.booking-link{
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 7px 9px 7px 9px;
+    background-color: #ff008c;
+    color:white;
+    width: 18%;
+    margin: 5px 0px 5px -5px;
+    text-decoration: none;
+    transition: all 1s ease-out;
+}
+
+.booking-link:hover {
+    background-color:white;
+    color:#ff008c;
+    border: 1px solid #ff008c;
+    transition: all 1s ease;
+}
+
+.prices-container{
+    background-color: white;
+    padding: 30px;
+}
