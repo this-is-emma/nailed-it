@@ -2,7 +2,6 @@ import React from 'react';
 import './design.css';
 
 function Designs(props) {
-  const { title, image, desc, id } = props
   return (
     <div className="grid--item">
       <div 
